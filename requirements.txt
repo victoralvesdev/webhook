@@ -1,0 +1,5 @@
+pydantic_settings
+beanie
+uvicorn
+fastapi
+aiosmtplib
